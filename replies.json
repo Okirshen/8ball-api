@@ -1,0 +1,84 @@
+{
+  "replies": [
+    {
+      "reply": "It is certain",
+      "type": 0
+    },
+    {
+      "reply": "It is decidedly so",
+      "type": 0
+    },
+    {
+      "reply": "Without a doubt",
+      "type": 0
+    },
+    {
+      "reply": "Yes – definitely",
+      "type": 0
+    },
+    {
+      "reply": "You may rely on it",
+      "type": 0
+    },
+    {
+      "reply": "As I see it, yes",
+      "type": 0
+    },
+    {
+      "reply": "Most likely",
+      "type": 0
+    },
+    {
+      "reply": "Outlook good",
+      "type": 0
+    },
+    {
+      "reply": "Yes",
+      "type": 0
+    },
+    {
+      "reply": "Signs point to yes",
+      "type": 0
+    },
+    {
+      "reply": "Reply hazy, try again",
+      "type": 1
+    },
+    {
+      "reply": " Ask again later",
+      "type": 1
+    },
+    {
+      "reply": "Better not tell you now",
+      "type": 1
+    },
+    {
+      "reply": "Cannot predict now",
+      "type": 1
+    },
+    {
+      "reply": "Concentrate and ask again",
+      "type": 1
+    },
+    {
+      "reply": "Don't count on it",
+      "type": 2
+    },
+    {
+      "reply": "My reply is no",
+      "type": 2
+    },
+    {
+      "reply": "My sources say no",
+      "type": 2
+    },
+    {
+      "reply": "Outlook not so good",
+      "type": 2
+    },
+    {
+      "reply": "Very doubtful",
+      "type": 2
+    }
+  ]
+}
